@@ -39,4 +39,7 @@ Dedicated Computer Science Engineer and Full Stack Developer passionate about bu
 * **Certified in Java & SQL** - HackerRank
 
 ## ⚡ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+## 📍 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allu-sai-reddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allusaireddy123@email.com)
